@@ -1,0 +1,14 @@
+main {
+    border: thick double #32a1ce;
+    
+    width: 55%;
+    padding: 50px;
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: azure;
+}
+
